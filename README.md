@@ -2,8 +2,6 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ottlinger&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top public langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ottlinger&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **ottlinger/ottlinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
