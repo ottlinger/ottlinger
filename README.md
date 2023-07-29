@@ -2,6 +2,11 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ottlinger&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+I'm a servant leader,
+free software enthusiast and
+proud father living in Germany.
+
+Apart from working with people I feel home in the Java & PHP space.
 <!--
 **ottlinger/ottlinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
