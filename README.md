@@ -8,7 +8,7 @@ proud father living in Germany.
 
 Apart from working with people I feel home in the Java & PHP space.
 
-I'm a member of the [Apache Software Foundation](https://www.apache.org) and PMC chair of [Apache Creadur](https://creadur.apache.org).
+I'm a proud member of the [Apache Software Foundation](https://www.apache.org) and currently serve as the PMC chair of [Apache Creadur](https://creadur.apache.org).
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ottlinger&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
