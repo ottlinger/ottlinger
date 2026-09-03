@@ -10,7 +10,7 @@ Apart from working with people I feel home in the Java & PHP space.
 
 I'm a proud member of the [Apache Software Foundation](https://www.apache.org) and currently serve as the PMC chair of [Apache Creadur](https://creadur.apache.org).
 
-[![My GitHub  GitHub stats](https://github-stats-extended.vercel.app/api?username=ottlinger?icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented)](https://github.com/stats-organization/github-stats-extended)
+[![My GitHub  GitHub stats](https://github-stats-extended.vercel.app/api?username=ottlinger&icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **ottlinger/ottlinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
