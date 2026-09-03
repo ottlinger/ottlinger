@@ -4,7 +4,7 @@ I'm a servant leader,
 free software enthusiast and
 proud father living in Germany.
 
-![My github stats2](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ottlinger&theme=transparent)
+![My github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ottlinger&theme=transparent)
 
 Apart from working with people I feel home in the Java & PHP space.
 
