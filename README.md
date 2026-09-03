@@ -12,11 +12,11 @@ I'm a proud member of the [Apache Software Foundation](https://www.apache.org) a
 
 [![My GitHub  GitHub stats](https://github-stats-extended.vercel.app/api?username=ottlinger&theme=transparent&icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented)](https://github.com/stats-organization/github-stats-extended)
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320">
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=ottlinger&theme=transparent&layout=compact&langs_count=8&card_width=320">
   <img
     height="200"
     align="center"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=ottlinger&theme=transparent&layout=compact&langs_count=8&card_width=320"
   />
 </a>
 
